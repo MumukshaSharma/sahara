@@ -1,0 +1,17 @@
+
+.header{
+    color: brown;
+    text-align: center;
+    height: 0;
+}
+#text{
+    color: rgb(241, 234, 164);
+    text-align: center;
+}
+.container{
+    color: rgb(107, 47, 47);
+    height: 200px;
+    width: 300px;
+    margin-top: 0px;
+    margin-left: 40%;
+}
